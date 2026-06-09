@@ -88,3 +88,8 @@ La clase `Persona` contiene un objeto de tipo `Direccion`.
 Se utiliza la sobrescritura del método `toString()` para mostrar la información de los objetos.
 
 ---
+
+
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+
+---

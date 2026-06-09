@@ -8,8 +8,8 @@ Actividad sumativa 1 – DESARROLLO ORIENTADO A OBJETOS I_003A
 
 📘 Descripción general del sistema
 
-Este proyecto corresponde a la Evaluación Final Transversal de la asignatura Desarrollo Orientado a Objetos I. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar entidades representativas de un dominio real, aplicando los principios de encapsulamiento, composición, herencia, polimorfismo e interfaces.
-El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
+Este proyecto corresponde a la Evaluación Sumativa 1 de la asignatura Desarrollo Orientado a Objetos I. Proyecto desarrollado en Java para la asignatura de Fundamentos de Programación Orientada a Objetos.
+El sistema modela a las personas vinculadas a la empresa Llanquihue Tour mediante la aplicación de conceptos básicos de Programación Orientada a Objetos, tales como encapsulamiento, herencia, composición y polimorfismo.
 
 ## Objetivos
 

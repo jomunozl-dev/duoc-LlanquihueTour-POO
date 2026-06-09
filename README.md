@@ -1,4 +1,4 @@
-Evaluación Final Transversal – Desarrollo Orientado a Objetos I
+Actividad sumativa 1 – DESARROLLO ORIENTADO A OBJETOS I_003A
 👤 Autor Jorge Munoz Leon
 
     Nombre completo: Jorge Munoz Leon

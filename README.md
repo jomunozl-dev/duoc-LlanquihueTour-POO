@@ -8,8 +8,7 @@ Actividad sumativa 1 – DESARROLLO ORIENTADO A OBJETOS I_003A
 
 📘 Descripción general del sistema
 
-Este proyecto corresponde a la Evaluación Sumativa 1 de la asignatura Desarrollo Orientado a Objetos I. Proyecto desarrollado en Java para la asignatura de Fundamentos de Programación Orientada a Objetos.
-El sistema modela a las personas vinculadas a la empresa Llanquihue Tour mediante la aplicación de conceptos básicos de Programación Orientada a Objetos, tales como encapsulamiento, herencia, composición y polimorfismo.
+Este proyecto corresponde a la Evaluación Sumativa 1 de la asignatura Desarrollo Orientado a Objetos I. Proyecto desarrollado en Java, en lo cual el sistema modela a las personas vinculadas a la empresa Llanquihue Tour mediante la aplicación de conceptos básicos de Programación Orientada a Objetos, tales como encapsulamiento, herencia, composición y polimorfismo.
 
 ## Objetivos
 
@@ -34,8 +33,6 @@ src
 └── app
     └── Main.java
 ```
-
----
 
 ## Clases Implementadas
 

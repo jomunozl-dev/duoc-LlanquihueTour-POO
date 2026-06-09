@@ -1,5 +1,5 @@
 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
-👤 Autor del proyecto
+👤 Autor Jorge Munoz Leon
 
     Nombre completo: Jorge Munoz Leon
     Sección: DESARROLLO ORIENTADO A OBJETOS I_003A >>> 2026_202_OL_PRY2202_24613390_PCT

@@ -15,9 +15,9 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 - Representar personas relacionadas con la empresa.
 - Aplicar encapsulamiento mediante atributos privados.
-- Implementar herencia utilizando una clase derivada.
+- Implementar herencia utilizando una clase extendida.
 - Utilizar composición entre clases.
-- Mostrar la información de los objetos mediante el método `toString()`.
+- Mostrar la información de los objetos mediante el método `toString()` sobrescribiendo el metodo con @override.
 
 ---
 
@@ -89,7 +89,6 @@ Se utiliza la sobrescritura del método `toString()` para mostrar la informació
 
 ---
 
-
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluacion Sumativa 1 | 08/06/2026
 
 ---
